@@ -27,7 +27,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently an **AI System Engineer** at **Datifex**, building LangGraph-powered LLM backend pipelines and RAG systems.
-- 🎓 **M.Sc. in Computer Science** from **Dalhousie University** (GPA 4.07/4.30) — focused on Human-Computer Interaction, Data Visualization, and Software Development.
+- 🎓 **M.Sc. in Computer Science** from **Dalhousie University** (GPA 4.07/4.30) - focused on Human-Computer Interaction, Data Visualization, and Software Development.
 - 📊 Love working at the intersection of **Machine Learning, Data Analytics, and Interactive Visualization**.
 - 📍 Based in **Halifax, NS, Canada**.
 - 📫 Reach me at **yeaminur.rahman1@gmail.com**
@@ -79,49 +79,49 @@
 
 ## 💼 Experience
 
-- **AI System Engineer** — *Datifex*, Halifax, NS *(Oct 2025 – Present)*
+- **AI System Engineer** - *Datifex*, Halifax, NS *(Oct 2025 – Present)*
   LangGraph LLM backend pipelines, RAG systems, and human–LLM interaction workflows integrated with real-time 3D maritime visualization platforms.
-- **Research Assistant** — *GEM Lab, Dalhousie University* *(Sep 2023 – Sep 2025)*
+- **Research Assistant** - *GEM Lab, Dalhousie University* *(Sep 2023 – Sep 2025)*
   Maritime data analytics, large-display visualizations, and HCI / AR-VR research.
-- **Data Visualization & Software Dev Intern** — *Glas Ocean Electric* *(May 2024 – May 2025)*
+- **Data Visualization & Software Dev Intern** - *Glas Ocean Electric* *(May 2024 – May 2025)*
   Real-time vessel dashboards, eco-driving and route visualization for fuel-efficient navigation.
-- **Management Trainee, Enterprise Systems** — *Grameenphone (Telenor)* *(Sep 2022 – Aug 2023)*
+- **Management Trainee, Enterprise Systems** - *Grameenphone (Telenor)* *(Sep 2022 – Aug 2023)*
   Enterprise software features and real-time operational dashboards.
-- **Data Analysis & Automation Intern** — *Nestlé* *(Apr 2022 – Sep 2022)*
+- **Data Analysis & Automation Intern** - *Nestlé* *(Apr 2022 – Sep 2022)*
   Business-insight analytics, Power Apps automation, and Power BI dashboards.
 
 ---
 
 ## 📚 Selected Projects & Publications
-- **Agentic LLM & RAG System for Maritime Operations** — *Professional Project | Datifex*  
+- **Agentic LLM & RAG System for Maritime Operations** - *Professional Project | Datifex*  
   Designed and developed a LangGraph-based LLM backend with intelligent query routing, cretrieval-augmented generation, and multi-stage response validation. Worked on improving retrieval accuracy, reducing inference latency, and integrating AI capabilities with real-time maritime visualization platforms.  
   `Python` · `LangGraph` · `RAG` · `ReRanking` · `FastAPI` · `Neo4j` · `Vector Search` · `LLMs`
 
 - **Eco-Driving Feedback & Historical Route Visualization for Maritime Operations**
   `WebSocket` · `Leaflet.js` · `D3.js` · `MongoDB` · `Flask` · `ReactJS` · `Node.js`
-- **Visual Analytics in Maritime Operations** — vessel analytics via AIS & Radar with predictive AI and clustering
+- **Visual Analytics in Maritime Operations** - vessel analytics via AIS & Radar with predictive AI and clustering
   `Python` · `GeoPandas` · `Scikit-learn` · `Leaflet.js` · `D3.js` · `Flask`
-- **CRAM: Credit Risk Assessment Model** — *Published at ICOIACT (4th Intl. Conference on ICT)*
+- **CRAM: Credit Risk Assessment Model** - *Published at ICOIACT (4th Intl. Conference on ICT)*
   `Python` · `Pandas` · `Scikit-learn` · `Django` · `MySQL`
-- **Real-Time Patient Ailment Monitoring with Enhanced CNN Architectures** — *Published at IEEE IDAACS*
+- **Real-Time Patient Ailment Monitoring with Enhanced CNN Architectures** - *Published at IEEE IDAACS*
   `TensorFlow` · `Google Speech API` · `Django`
-- **Superstore Business Framework Using Clustering Techniques** — *Published at ICCIT 2021*
+- **Superstore Business Framework Using Clustering Techniques** - *Published at ICCIT 2021*
   `Python` · `Pandas` · `Scikit-learn`
 
 ---
 
 ## 🎓 Education
 
-- **M.Sc., Computer Science** — Dalhousie University, Canada *(2023 – 2025)* · GPA **4.07/4.30**
-- **B.Sc., Computer Science & Engineering** — BRAC University, Bangladesh *(2017 – 2022)* · CGPA **3.75/4.00**
+- **M.Sc., Computer Science** - Dalhousie University, Canada *(2023 – 2025)* · GPA **4.07/4.30**
+- **B.Sc., Computer Science & Engineering** - BRAC University, Bangladesh *(2017 – 2022)* · CGPA **3.75/4.00**
 
 ---
 
 ## 🏆 Honours & Awards
 
-- 🎖️ Full funding for M.Sc. program — **Dalhousie University**
-- 🥇 **Top Data Engineer** & 🥉 **Second Runner-Up** — Robi Datathon 2.0 (400+ teams, 2,800+ participants, 70+ universities, 11 countries)
-- 🏅 Special Recognition Award in Data Science by the Vice-Chancellor — **BRAC University**
+- 🎖️ Full funding for M.Sc. program - **Dalhousie University**
+- 🥇 **Top Data Engineer** & 🥉 **Second Runner-Up** - Robi Datathon 2.0 (400+ teams, 2,800+ participants, 70+ universities, 11 countries)
+- 🏅 Special Recognition Award in Data Science by the Vice-Chancellor - **BRAC University**
 - 🌟 Graduated with **High Distinction**; twice on the Vice Chancellor's Honour List and once on the Dean's Honour List
 
 ---
