@@ -93,20 +93,23 @@
 ---
 
 ## 📚 Selected Projects & Publications
+
 - **Agentic LLM & RAG System for Maritime Operations** - *Professional Project | Datifex*  
   Designed and developed a LangGraph-based LLM backend with intelligent query routing, cretrieval-augmented generation, and multi-stage response validation. Worked on improving retrieval accuracy, reducing inference latency, and integrating AI capabilities with real-time maritime visualization platforms.  
   `Python` · `LangGraph` · `RAG` · `ReRanking` · `FastAPI` · `Neo4j` · `Vector Search` · `LLMs`
 
+- **LOCAS: Local-Centric AI-Assisted Coding Workflow** - *Ongoing Research | TechRxiv Preprint*  
+  Exploring a hybrid AI-assisted development workflow that combines cloud-based LLMs for architectural planning with local Small Language Models (SLMs) for code generation, focusing on cost efficiency, reduced cloud dependency, and human oversight.  
+  `LLMs` · `SLMs` · `AI Agents` · `Ollama` · `Qwen2.5-Coder`
+
 - **Eco-Driving Feedback & Historical Route Visualization for Maritime Operations**
   `WebSocket` · `Leaflet.js` · `D3.js` · `MongoDB` · `Flask` · `ReactJS` · `Node.js`
 - **Visual Analytics in Maritime Operations** - vessel analytics via AIS & Radar with predictive AI and clustering
-  `Python` · `GeoPandas` · `Scikit-learn` · `Leaflet.js` · `D3.js` · `Flask`
+  `Python` · `GeoPandas` · `Unsupervised Learning` · `Scikit-learn` · `Leaflet.js` · `D3.js` · `Flask`
 - **CRAM: Credit Risk Assessment Model** - *Published at ICOIACT (4th Intl. Conference on ICT)*
   `Python` · `Pandas` · `Scikit-learn` · `Django` · `MySQL`
 - **Real-Time Patient Ailment Monitoring with Enhanced CNN Architectures** - *Published at IEEE IDAACS*
-  `TensorFlow` · `Google Speech API` · `Django`
-- **Superstore Business Framework Using Clustering Techniques** - *Published at ICCIT 2021*
-  `Python` · `Pandas` · `Scikit-learn`
+  `TensorFlow` · `Google Speech API` · `Mel-Spectrogram Analysis` · `Django`
 
 ---
 
