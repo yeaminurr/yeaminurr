@@ -79,15 +79,15 @@
 
 ## 💼 Experience
 
-- **AI System Engineer** - *Datifex*, Halifax, NS *(Oct 2025 – Present)*
-  LangGraph LLM backend pipelines, RAG systems, and human–LLM interaction workflows integrated with real-time 3D maritime visualization platforms.
-- **Research Assistant** - *GEM Lab, Dalhousie University* *(Sep 2023 – Sep 2025)*
+- **AI System Engineer** - *Datifex*, Halifax, NS *(Oct 2025 - Present)*
+  LangGraph LLM backend pipelines, RAG systems, and human-LLM interaction workflows integrated with real-time 3D maritime visualization platforms.
+- **Research Assistant** - *GEM Lab, Dalhousie University* *(Sep 2023 - Sep 2025)*
   Maritime data analytics, large-display visualizations, and HCI / AR-VR research.
-- **Data Visualization & Software Dev Intern** - *Glas Ocean Electric* *(May 2024 – May 2025)*
+- **Data Visualization & Software Dev Intern** - *Glas Ocean Electric* *(May 2024 - May 2025)*
   Real-time vessel dashboards, eco-driving and route visualization for fuel-efficient navigation.
-- **Management Trainee, Enterprise Systems** - *Grameenphone (Telenor)* *(Sep 2022 – Aug 2023)*
+- **Management Trainee, Enterprise Systems** - *Grameenphone (Telenor)* *(Sep 2022 - Aug 2023)*
   Enterprise software features and real-time operational dashboards.
-- **Data Analysis & Automation Intern** - *Nestlé* *(Apr 2022 – Sep 2022)*
+- **Data Analysis & Automation Intern** - *Nestlé* *(Apr 2022 - Sep 2022)*
   Business-insight analytics, Power Apps automation, and Power BI dashboards.
 
 ---
@@ -112,8 +112,8 @@
 
 ## 🎓 Education
 
-- **M.Sc., Computer Science** - Dalhousie University, Canada *(2023 – 2025)* · GPA **4.07/4.30**
-- **B.Sc., Computer Science & Engineering** - BRAC University, Bangladesh *(2017 – 2022)* · CGPA **3.75/4.00**
+- **M.Sc., Computer Science** - Dalhousie University, Canada *(2023 - 2025)* · GPA **4.07/4.30**
+- **B.Sc., Computer Science & Engineering** - BRAC University, Bangladesh *(2017 - 2022)* · CGPA **3.75/4.00**
 
 ---
 
