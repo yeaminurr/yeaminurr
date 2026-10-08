@@ -93,6 +93,9 @@
 ---
 
 ## 📚 Selected Projects & Publications
+- **Agentic LLM & RAG System for Maritime Operations** — *Professional Project | Datifex*  
+  Designed and developed a LangGraph-based LLM backend with intelligent query routing, cretrieval-augmented generation, and multi-stage response validation. Worked on improving retrieval accuracy, reducing inference latency, and integrating AI capabilities with real-time maritime visualization platforms.  
+  `Python` · `LangGraph` · `RAG` · `ReRanking` · `FastAPI` · `Neo4j` · `Vector Search` · `LLMs`
 
 - **Eco-Driving Feedback & Historical Route Visualization for Maritime Operations**
   `WebSocket` · `Leaflet.js` · `D3.js` · `MongoDB` · `Flask` · `ReactJS` · `Node.js`
